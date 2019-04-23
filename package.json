@@ -1,5 +1,5 @@
 {
-  "name": "ranger",
+  "name": "rangejs",
   "version": "0.0.0",
   "description": "craete different type of ranges and array",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrfarhadir/ranger.git"
+    "url": "git+https://github.com/mrfarhadir/range.git"
   },
   "keywords": [
     "range",
@@ -19,9 +19,9 @@
   "author": "Farhad Mehryari <info@mrfarhad.ir>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrfarhadir/ranger/issues"
+    "url": "https://github.com/mrfarhadir/range/issues"
   },
-  "homepage": "https://github.com/mrfarhadir/ranger#readme",
+  "homepage": "https://github.com/mrfarhadir/range#readme",
   "dependencies": {
     "typescript": "^3.4.4",
     "gulp": "^4.0.0",
