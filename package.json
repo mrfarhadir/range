@@ -1,0 +1,31 @@
+{
+  "name": "ranger",
+  "version": "0.0.0",
+  "description": "craete different type of ranges and array",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc  && gulp copy",
+    "build:minify": "npm run build && gulp minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrfarhadir/ranger.git"
+  },
+  "keywords": [
+    "range",
+    "array",
+    "loop"
+  ],
+  "author": "Farhad Mehryari <info@mrfarhad.ir>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrfarhadir/ranger/issues"
+  },
+  "homepage": "https://github.com/mrfarhadir/ranger#readme",
+  "dependencies": {
+    "typescript": "^3.4.4",
+    "gulp": "^4.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
