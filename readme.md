@@ -3,7 +3,7 @@
 lightweight library for creating arrays of numbers 
 ### Installation:
 ```
-npm install ranger --save
+npm install rangeArray --save
 ```
 
 #### Methods:
@@ -12,7 +12,7 @@ npm install ranger --save
 
 **Examples:**
 ```javascript
-const  R  =  require('./dist/ranger.js').default.init
+const  R  =  require('rangeArray').default.init
   
 // without step (default is 1)
 let  arr  =  R("10:20")
