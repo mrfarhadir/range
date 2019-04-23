@@ -3,7 +3,7 @@
 lightweight library for creating arrays of numbers 
 ### Installation:
 ```
-npm install rangeArray --save
+npm install rangearray --save
 ```
 
 #### Methods:
@@ -12,7 +12,7 @@ npm install rangeArray --save
 
 **Examples:**
 ```javascript
-const  R  =  require('rangeArray').default.init
+const  R  =  require('rangearray').default.init
   
 // without step (default is 1)
 let  arr  =  R("10:20")
