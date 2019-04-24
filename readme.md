@@ -5,6 +5,12 @@ lightweight library for creating arrays of numbers
 ```
 npm install range-create --save
 ```
+### Use in browser
+```
+<script src="https://unpkg.com/range-create@0.0.1/dist/browser/ranger.js" ></script>
+```
+#### Live example on code pen
+[https://codepen.io/anon/pen/MRPJmO](https://codepen.io/anon/pen/MRPJmO)
 
 #### Methods:
 - **`init`**
