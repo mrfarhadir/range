@@ -41,4 +41,3 @@ var Ranger = /** @class */ (function () {
     };
     return Ranger;
 }());
-export default Ranger;
