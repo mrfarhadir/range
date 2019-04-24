@@ -4,7 +4,7 @@
   "description": "craete different type of ranges and array",
   "main": "index.js",
   "scripts": {
-    "build": "tsc  && gulp copy",
+    "build": "tsc && tsc -p tsconfig.browser.json && gulp copy",
     "build:minify": "npm run build && gulp minify"
   },
   "repository": {

@@ -14,7 +14,7 @@ function copy(done) {
 }
 
 function minify(done) {
-    gulp.src('./dist/*.js')
+    gulp.src('./dist/**/*.js')
        .pipe(uglify())
        .pipe(rename({
             suffix: '.min'
