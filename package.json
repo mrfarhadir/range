@@ -1,6 +1,6 @@
 {
   "name": "range-create",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "craete different type of ranges and array",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,11 @@
   },
   "homepage": "https://github.com/mrfarhadir/range#readme",
   "dependencies": {
+    
+  },
+  "devDependencies": {
+    "gulp": "^4.0.1",
     "typescript": "^3.4.4",
-    "gulp": "^4.0.0",
     "gulp-rename": "^1.4.0",
     "gulp-uglify": "^3.0.2"
   }
